@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-inter-400 {
+  font-family: 'inter';
+  font-weight: 400;
+}
+.font-inter-700 {
+  font-family: 'inter';
+  font-weight: 700;
+}
+.font-inter-800 {
+  font-family: 'inter';
+  font-weight: 800;
+}
